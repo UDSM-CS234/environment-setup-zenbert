@@ -1,6 +1,8 @@
-# CS 234 Lab 1: Hello World"
+# CS 234 Lab 1: "Hello World"
 
 ## Name: Albert William Mwangwa
+
+## Email Address: alberwilly21@gmail.com
 
 ## Reg. No: 2020-04-08906
 
